@@ -1,20 +1,20 @@
-# Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
+# Vídeo: Reflexao sobre o Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
 Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização e revisão;
+- IA Generativa **[ELEVENLABS](https://elevenlabs.io/)** para conversao do texto em voz;
 - IA Generativa **[D-ID](https://www.d-id.com)** para sintetização de voz e geração de avatar virtual;
-- Software **[Adobe Premiere](https://www.adobe.com/products/premiere.html)** para edição de vídeo.
+- IA Generativa **[Descript](https://web.descript.com/)** para edição de vídeo e trancrição em inglês.
 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Usei o "ELEVEN LABS" para converter uma frase de anime em audio. O "D-ID" foi essencial para criar um avatar com uma foto minha e o audio do ElevenLabs. A montagem e edição foram realizadas no site Decript juntamnete com a trasncrição em ingles do audio.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+O vídeo é uma é uma pequena amostra do que conseguimos realizar neste mundo das IAs Generativas, destacando seu potencial transformador.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://share.descript.com/view/iBZbA6qK6mY)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
